@@ -34,7 +34,15 @@ This file provides persistent context for Claude.ai chat sessions. Last updated:
 - **Repo:** To be created under https://github.com/mil22156/projects
 - **What it is:** Email-driven personal knowledge capture system. Emails with subject prefix [CLAUDE] are parsed and routed to project folders in GitHub and committed automatically.
 - **Stack:** Python, Gmail API
-- **Status:** Project scaffolding email sent to Claude Code — not yet started
+- **Status:** Scaffolded and pushed to GitHub — Gmail API setup pending
+
+
+### Cherry Stepping Stool
+- **Repo:** https://github.com/mil22156/cherry-stepping-stool
+- **What it is:** Stepping stool built in carpentry class from light cherry wood. Joinery gaps filled with Durham's Water Putty. Currently sanded, no finish applied yet.
+- **Goal:** Beautiful, luxurious finish resilient to wear
+- **Status:** Finishing plan documented, supplies sourcing in progress
+- **Next action:** Visit Klingspor's in Fletcher for supplies
 
 ### Bathroom Remodel
 - **Location:** Asheville, NC (~90 sq ft)
