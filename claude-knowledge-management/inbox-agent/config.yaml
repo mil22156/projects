@@ -1,0 +1,13 @@
+gmail:
+  credentials_path: ../../config/credentials.json
+  token_path: ../../config/token.json
+
+poll_interval_minutes: 15
+
+routing:
+  bathroom-remodel:
+    keywords: [bathroom, remodel, tile, vanity]
+  pharma-plant:
+    keywords: [PHA, SIL, interlock, pharma, instrument]
+  knowledge-management:
+    keywords: [knowledge, claude, system, context]
