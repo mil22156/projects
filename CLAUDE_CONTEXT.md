@@ -31,10 +31,10 @@ This file provides persistent context for Claude.ai chat sessions. Last updated:
 - **Key files:** CLAUDE.md (architecture reference), PROJECT_LOG.md (decisions log), AI_JOURNAL.md (AI assistance log)
 
 ### Claude Knowledge Management System
-- **Repo:** To be created under https://github.com/mil22156/projects
+- **Repo:** https://github.com/mil22156/claude_communication
 - **What it is:** Email-driven personal knowledge capture system. Emails with subject prefix [CLAUDE] are parsed and routed to project folders in GitHub and committed automatically.
 - **Stack:** Python, Gmail API
-- **Status:** Scaffolded and pushed to GitHub — Gmail API setup pending
+- **Status:** Working — OAuth complete, end-to-end test passed 2026-04-22
 
 
 ### Cherry Stepping Stool
