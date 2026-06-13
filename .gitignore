@@ -1,0 +1,11 @@
+# Personal financial projects — not for version control
+charitable_giving/
+manhattan_apartment/
+
+# Standalone git repos with their own GitHub remotes — don't nest
+claude_communication/
+finance-tool/
+home-shop/
+
+# Local Claude Code settings
+**/.claude/settings.local.json
