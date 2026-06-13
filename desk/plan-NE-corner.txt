@@ -1,0 +1,34 @@
+PLAN VIEW — NE CORNER OF OFFICE
+(Not to scale. North = up, East = right.)
+
+  N
+  ↑
+W─┼─E
+  ↓
+  S
+
+                  ←————————————— 6' —————————————→
+ NORTH WALL  ══════════════════════════════════════╗
+                                                   ║
+             ┌─────────────────────────────────────╢  ┐
+             │                                     ║  │
+             │        NORTH RUN  (6' × 30")        ║  │ 30"
+             │                                  ╲  ║  │
+             └──────────────────────────────────╲──╢  ┘
+                                 ←——— 30" ———→   ╲ ║
+                                 ┌────────────────╲╢  ┐
+                                 │                 ║  │
+                                 │   EAST RUN      ║  │
+                                 │  (4.5' × 30")   ║  │ 4.5'
+                                 │                 ║  │
+                                 │                 ║  │
+                                 └─────────────────╢  ┘
+                                                   ║
+                                                   ║  EAST WALL
+
+
+NOTES:
+  ╲  = diagonal cut corner (45°, spans full 30" depth)
+  ╗  = NE corner of room
+  ╢  = desk edge meeting east wall
+  Stud locations to be added once measured.
